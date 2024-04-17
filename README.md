@@ -1,7 +1,7 @@
 # currencyConverter
-A website to convert between various cryptocurrencies and fiat currencies
+A website built using React to convert between various cryptocurrencies and fiat currencies
 Installation:
-1. Clone the repository: 
+1. Clone the repository: https://github.com/Jadayoubi/currencyConverter.git
 2. Navigate to the project directory:cd currencyConverter
 3. Install dependencies: npm install
 4. Start the development server: npm start
